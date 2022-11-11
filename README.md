@@ -1,9 +1,8 @@
-# DiAnS
- Domasni po kursot DiAnS
+# Domasni po kursot DiAnS
  
-Анастасија Стојкоска -
-Беќир Фазли -191045
-Filip Trajkovski-
-Ана Постоловска-
-Borche Todorov-
+# Анастасија Стојкоска -
+# Беќир Фазли -191045
+# Filip Trajkovski-
+# Ана Постоловска-
+# Borche Todorov-
 
